@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <article xml:id="syllabus">
-    <title>My trig course Syllabus</title>
+    <title>Analytical triginometry Syllabus</title>
     <subtitle>MAC 1114</subtitle>
 
     <!-- Include frontmatter -->
@@ -19,7 +19,7 @@
           <li>
             <title>Course Description</title>
             <p>
-              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+              Trig and applications. Contextual learning.
             </p>
           </li>
           <li>
@@ -56,7 +56,7 @@
           <li>
             <title>Requisite</title>
             <p>
-              MATH 217 or 221
+              MCH 1105
             </p>
           </li>
           <li>
@@ -130,7 +130,7 @@
               <li>
                 <title>Title</title>
                 <p>
-                  Associate Director of the Teaching and Learning Center
+                  Associate Director at the Teaching and Learning Center
                 </p>
               </li>
               <li>
