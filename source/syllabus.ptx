@@ -6,7 +6,7 @@
 
   <article xml:id="syllabus">
     <title>My trig course Syllabus</title>
-    <subtitle>Prefix 101</subtitle>
+    <subtitle>MAC 1114</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -117,18 +117,12 @@
       <subsection>
         <title>Instructor</title>
         <paragraphs>
-          <title>Dr. Mitch Keller</title>
+          <title>Dr. Ameya S. Kolarkar</title>
           <aside component="online">
             <p>
-              My pronouns are he/him/his.
-              I ask that you address me as <q>Prof. Keller</q> or <q>Dr.
-              Keller</q>, the appropriate professional forms.
-              Since this is not high school, please do not address me as <q>Mr. Keller</q>.
-              In general, you will find that I am not an overly formal individual.
-              However, academia has a long history of marginalizing scholars<mdash/>professors, librarians, and students<mdash/>who don't present as the Hollywood image of a professor (older, white, male).
-              Using titles for all your instructors is a small way that we can make the academy more inclusive.
-              Therefore, in solidarity with my colleagues of all identities and backgrounds, <q>Prof.
-              Keller</q> is the form of address that I prefer.
+              My pronouns are he/his.
+              You may address me as <q>Prof. Kolarkar</q> or <q>Dr.
+              Kolarkar</q>, the appropriate professional forms.
               </p>
           </aside>
           <p><nbsp/>
@@ -136,7 +130,7 @@
               <li>
                 <title>Title</title>
                 <p>
-                  Associate Director of Undergraduate Studies and Teaching Faculty
+                  Associate Director of the Teaching and Learning Center
                 </p>
               </li>
               <li>
