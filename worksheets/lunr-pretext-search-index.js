@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Front Matter",
   "number": "",
   "title": "Front Matter",
-  "body": "  Instructor Lastname Mathematical Sciences University of Templates  Last Updated:       "
+  "body": "  Ameya S. Kolarkar Center for the Advancement of Teaching Florida State University  Last Updated:       "
 },
 {
   "id": "wkst-relns-digraphs",
