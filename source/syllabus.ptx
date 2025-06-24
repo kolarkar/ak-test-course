@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <article xml:id="syllabus">
-    <title>Analytical triginometry Syllabus</title>
+    <title>College Physics I Syllabus</title>
     <subtitle>MAC 1114</subtitle>
 
     <!-- Include frontmatter -->
@@ -19,7 +19,7 @@
           <li>
             <title>Course Description</title>
             <p>
-              Trig and applications. Contextual learning.
+              Physics I foundations. Contextual learning.
             </p>
           </li>
           <li>
@@ -45,9 +45,9 @@
                   </p>
                 </li>
                 <li>
-                  <title>L&amp;S Credit</title>
+                  <title>Credit</title>
                   <p>
-                    Counts as Liberal Arts and Science credit in L&amp;S
+                    Counts as Liberal Arts and Science credit.
                   </p>
                 </li>
               </dl>
@@ -56,7 +56,7 @@
           <li>
             <title>Requisite</title>
             <p>
-              MCH 1105
+              MAC 1105, MAC1114
             </p>
           </li>
           <li>
@@ -73,27 +73,27 @@
           <ol>
             <li>
               <p>
-                Be able to construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, correctness of recursive programs).
+                Be able to identify and apply the foundational principles and laws of nature as studied through physics, using the language of mathematics and graphs. Part I deals with kinematics, dynamics, mechanics, and thermodynamics of physical systems, including gravity. Part II will deal with electromagnetism, quantum physics, optics, and relativity. 
               </p>
             </li>
             <li>
               <p>
-                Apply basic combinatoric techniques to counting problems.
+                Sense-making through problem-solving. 
               </p>
             </li>
             <li>
               <p>
-                Develop basic skills to construct mathematically rigorous arguments and proofs.
+                Using models to predict behavior of systems. 
               </p>
             </li>
             <li>
               <p>
-                Gain exposure to the basics of program analysis (program correctness, recurrences, asymptotic analysis).
+                <em>Mathematicising</em> models to precisely predict outcomes of measurements and changes.
               </p>
             </li>
             <li>
               <p>
-                Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees).
+                Be able to transfer skills and knowledge to other disciplines that use basic physics, like Engineering, Chemistry, Architecture, Music, Medicine, Earth Sciences, and Biology.
               </p>
             </li>
           </ol>
